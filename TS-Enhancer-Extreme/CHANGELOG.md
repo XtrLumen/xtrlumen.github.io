@@ -1,3 +1,4 @@
+# v1.0.0
 ## 🎉第一个正式版v1.0.0发布🎉
 
 > 主要
@@ -10,10 +11,10 @@
 - [a8fcae2](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/a8fcae2e2b6181b353b994adff4d5676e684db24) 为所有日志添加等级
 - [a102765](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/a102765bc2a8bfdeccabc1a9bf45514f28a3756f) 放弃OverlayFS
 - 优化安装流程
-  - [f01899d](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/f01899d268fd79f32e42f627a0a31dd4728f8b06) 更换校验和为别的哈希算法
-  - [19167e5](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/19167e58b46f0d4cb61d4df3218a73303fdc5d0a) 为 OnePlus 添加 com.coloros.sceneservice
   - [010bfa9](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/010bfa9f65db636bf23a5e2cab80d6c83f3cc34c) 修复因Magisk更新模块重新打包导致的安装失败
+  - [19167e5](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/19167e58b46f0d4cb61d4df3218a73303fdc5d0a) 为 OnePlus 添加 com.coloros.sceneservice
   - [cd21df5](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/010bfa9f65db636bf23a5e2cab80d6c83f3cc34c) 将备份配置文件改为只备份Keybox。
+  - [f01899d](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/f01899d268fd79f32e42f627a0a31dd4728f8b06) 更换校验和为别的哈希算法
   - [904cc7f](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/904cc7f0f700b9f69b3aed98a6a17f333282a017) 加入黑名单模式
 - [a8fcae2](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/a8fcae2e2b6181b353b994adff4d5676e684db24) 解耦 tseed 和 util_functions.sh 以便使用Rust语言重写
 - [1da2a1d](https://github.com/XtrLumen/TS-Enhancer-Extreme/commit/1da2a1d99d30d4459327e81d1f5325fa03c67fe5) 移除 TrickyStore 模块卡片上的动作按钮
